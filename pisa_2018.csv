@@ -1,0 +1,237 @@
+index,country,score,subject
+1,China (B-S-J-Z)[note 1],591,mathematics
+2,Singapore,569,mathematics
+3,Macau(China),558,mathematics
+4,Hong Kong(China),551,mathematics
+5,Taiwan,531,mathematics
+6,Japan,527,mathematics
+7,South Korea,526,mathematics
+8,Estonia,523,mathematics
+9,Netherlands,519,mathematics
+10,Poland,516,mathematics
+11,Switzerland,515,mathematics
+12,Canada,512,mathematics
+13,Denmark,509,mathematics
+14,Slovenia,509,mathematics
+15,Belgium,508,mathematics
+16,Finland,507,mathematics
+17,Sweden,502,mathematics
+18,United Kingdom,502,mathematics
+19,Norway,501,mathematics
+20,Germany,500,mathematics
+21,Ireland,500,mathematics
+22,Czech Republic,499,mathematics
+23,Austria,499,mathematics
+24,Vietnam,496,mathematics
+25,Latvia,496,mathematics
+26,France,495,mathematics
+27,Iceland,495,mathematics
+28,New Zealand,494,mathematics
+29,Portugal,492,mathematics
+30,Australia,491,mathematics
+31,Russia,488,mathematics
+32,Italy,487,mathematics
+33,Slovakia,486,mathematics
+34,Luxembourg,483,mathematics
+35,Spain,481,mathematics
+36,Lithuania,481,mathematics
+37,Hungary,481,mathematics
+38,United States,478,mathematics
+39,Belarus,472,mathematics
+40,Malta,472,mathematics
+41,Croatia,464,mathematics
+42,Israel,463,mathematics
+43,Turkey,454,mathematics
+44,Ukraine,453,mathematics
+45,Greece,451,mathematics
+46,Cyprus,451,mathematics
+47,Serbia,448,mathematics
+48,Malaysia,440,mathematics
+49,Albania,437,mathematics
+50,Bulgaria,436,mathematics
+51,United Arab Emirates,435,mathematics
+52,Brunei,430,mathematics
+53,Romania,430,mathematics
+54,Montenegro,430,mathematics
+55,Kazakhstan,423,mathematics
+56,Moldova,421,mathematics
+57,Azerbaijan,420,mathematics
+58,Thailand,419,mathematics
+59,Uruguay,418,mathematics
+60,Chile,417,mathematics
+61,Qatar,414,mathematics
+62,Mexico,409,mathematics
+63,Bosnia and Herzegovina,406,mathematics
+64,Costa Rica,402,mathematics
+65,Peru,400,mathematics
+66,Jordan,400,mathematics
+67,Georgia,398,mathematics
+68,North Macedonia,394,mathematics
+69,Lebanon,393,mathematics
+70,Colombia,391,mathematics
+71,Brazil,384,mathematics
+72,Argentina,379,mathematics
+73,Indonesia,379,mathematics
+74,Saudi Arabia,373,mathematics
+75,Morocco,368,mathematics
+76,Kosovo,366,mathematics
+77,Panama,353,mathematics
+78,Philippines,353,mathematics
+79,Dominican Republic,325,mathematics
+1,China (B-S-J-Z)[note 1],590,science
+2,Singapore,551,science
+3,Macau(China),544,science
+4,Vietnam,543,science
+5,Estonia,530,science
+6,Japan,529,science
+7,Finland,522,science
+8,South Korea,519,science
+9,Canada,518,science
+10,Hong Kong(China),517,science
+11,Taiwan,516,science
+12,Poland,511,science
+13,New Zealand,508,science
+14,Slovenia,507,science
+15,United Kingdom,505,science
+16,Netherlands,503,science
+17,Germany,503,science
+18,Australia,503,science
+19,United States,502,science
+20,Sweden,499,science
+21,Belgium,499,science
+22,Czech Republic,497,science
+23,Ireland,496,science
+24,Switzerland,495,science
+25,France,493,science
+26,Denmark,493,science
+27,Portugal,492,science
+28,Norway,490,science
+29,Austria,490,science
+30,Latvia,487,science
+31,Spain,483,science
+32,Lithuania,482,science
+33,Hungary,481,science
+34,Russia,478,science
+35,Luxembourg,477,science
+36,Iceland,475,science
+37,Croatia,472,science
+38,Belarus,471,science
+39,Ukraine,469,science
+40,Turkey,468,science
+41,Italy,468,science
+42,Slovakia,464,science
+43,Israel,462,science
+44,Malta,457,science
+45,Greece,452,science
+46,Chile,444,science
+47,Serbia,440,science
+48,Cyprus,439,science
+49,Malaysia,438,science
+50,United Arab Emirates,434,science
+51,Brunei,431,science
+52,Jordan,429,science
+53,Moldova,428,science
+54,Thailand,426,science
+55,Uruguay,426,science
+56,Romania,426,science
+57,Bulgaria,424,science
+58,Mexico,419,science
+59,Qatar,419,science
+60,Albania,417,science
+61,Costa Rica,416,science
+62,Montenegro,415,science
+63,Colombia,413,science
+64,North Macedonia,413,science
+65,Peru,404,science
+66,Argentina,404,science
+67,Brazil,404,science
+68,Bosnia and Herzegovina,398,science
+69,Azerbaijan,398,science
+70,Kazakhstan,397,science
+71,Indonesia,396,science
+72,Saudi Arabia,386,science
+73,Lebanon,384,science
+74,Georgia,383,science
+75,Morocco,377,science
+76,Kosovo,365,science
+77,Panama,365,science
+78,Philippines,357,science
+79,Dominican Republic,336,science
+1,China (B-S-J-Z)[note 1],555,reading
+2,Singapore,549,reading
+3,Macau(China),525,reading
+4,Hong Kong(China),524,reading
+5,Estonia,523,reading
+6,Canada,520,reading
+6,Finland,520,reading
+8,Ireland,518,reading
+9,South Korea,514,reading
+10,Poland,512,reading
+11,Sweden,506,reading
+12,New Zealand,506,reading
+13,Vietnam,505,reading
+14,United States,505,reading
+15,United Kingdom,504,reading
+16,Japan,504,reading
+17,Australia,503,reading
+18,Taiwan,503,reading
+19,Denmark,501,reading
+20,Norway,499,reading
+21,Germany,498,reading
+22,Slovenia,495,reading
+23,Belgium,493,reading
+24,France,493,reading
+25,Portugal,492,reading
+26,Czech Republic,490,reading
+27,Netherlands,485,reading
+28,Austria,484,reading
+29,Switzerland,484,reading
+30,Croatia,479,reading
+31,Latvia,479,reading
+32,Russia,479,reading
+33,Italy,476,reading
+34,Hungary,476,reading
+35,Lithuania,476,reading
+36,Iceland,474,reading
+37,Belarus,474,reading
+38,Israel,470,reading
+39,Luxembourg,470,reading
+40,Ukraine,466,reading
+41,Turkey,466,reading
+42,Slovakia,458,reading
+43,Greece,457,reading
+44,Chile,452,reading
+45,Malta,448,reading
+46,Serbia,439,reading
+47,United Arab Emirates,432,reading
+48,Romania,428,reading
+49,Uruguay,427,reading
+50,Costa Rica,426,reading
+51,Cyprus,424,reading
+52,Moldova,424,reading
+53,Montenegro,421,reading
+54,Mexico,420,reading
+55,Bulgaria,420,reading
+56,Jordan,419,reading
+57,Malaysia,415,reading
+58,Brazil,413,reading
+59,Colombia,412,reading
+60,Brunei,408,reading
+61,Qatar,407,reading
+62,Albania,405,reading
+63,Bosnia and Herzegovina,403,reading
+64,Argentina,402,reading
+65,Peru,401,reading
+66,Saudi Arabia,399,reading
+67,Thailand,393,reading
+68,North Macedonia,393,reading
+69,Azerbaijan,389,reading
+70,Kazakhstan,387,reading
+71,Georgia,380,reading
+72,Panama,377,reading
+73,Indonesia,371,reading
+74,Morocco,359,reading
+75,Lebanon,353,reading
+76,Kosovo,353,reading
+77,Dominican Republic,342,reading
+78,Philippines,340,reading
