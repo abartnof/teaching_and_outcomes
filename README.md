@@ -1,4 +1,4 @@
-# The relationship between what we ask of teachers, and students' academic performance
+# Teachers' jobs, and students' outcomes
 ![Summary](summary.png)
 TL;DR: Students score better on an academic assessment where...
 - Teachers are paid more
